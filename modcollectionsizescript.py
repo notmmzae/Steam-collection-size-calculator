@@ -3,7 +3,7 @@ import urllib.parse
 import json
 import time
 
-COLLECTION_ID = "3716855116"
+COLLECTION_ID = "INPUT MOD ID HERE"
 
 def steam_post(endpoint, params):
     url = f"https://api.steampowered.com/{endpoint}/v1/"

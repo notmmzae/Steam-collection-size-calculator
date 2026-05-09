@@ -11,13 +11,10 @@ COLLECTION_ID = "INPUT MOD COLLECTION ID HERE"
 this is on line 6, basically, get the ID for your mod collection, for example:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3716855116
 
-vvvvvvv 
-
-3716855116
-
-^^^^^^^
 
 "3716855116" is your mod collection ID. 
 so itd look something like this:
+
 COLLECTION_ID = "3716855116"
-thhats it, literally grab the steam collection ID, and paste the numbers into it and run the script. It does take a bit of a while to fetch the sizes, so be patient.
+
+thats it, literally grab the steam collection ID, and paste the numbers into it and run the script. It does take a bit of a while to fetch the sizes, so be patient.
